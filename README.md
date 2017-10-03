@@ -11,7 +11,7 @@ modules were used, e.g. multiplexers and decoders.
 tool. To use these examples, first you need to download LogiSim. LogiSim is very simple, but useful tool for designing and
 analyzing circuits. This tool is visual, so all that you want to do is possible with drag-and-drop moves and clicks. You can find
 some tutorials online - it is еаsy to learn, so you can master it for a few days. <a href = "https://www.youtube.com/watch?v=RdnT_Ujq72E&list=PL9Tu_yD7oJURQqPEAQ78FggiDeiK7MqVb">This link
-</a> can help you with learning LogiSim. If you're a fan of documentation and reading, use <a href = "http://engold.ui.ac.ir/~nikmehr/logisim_tutorial.pdf">this </a>.
+</a> can help you with learning LogiSim. If you're a fan of documentation and reading, use <a href = "http://engold.ui.ac.ir/~nikmehr/logisim_tutorial.pdf">this</a>.
 After download and installation, open LogiSim. Under section File choose Open and select example that you want to open and use.
 
 <p>Note: If you have some problems, you can contact me on my Linkedin profile or send me an e-mail. </p>
