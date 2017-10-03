@@ -1,4 +1,4 @@
-
+#Simple digital logic circuits in LogiSim
 LogiSim examples and homework solutions
 
 This is repository where I uploaded my homework assignments solutions and examples made in LogiSim design tool. All of the examples 
